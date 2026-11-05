@@ -1,0 +1,4 @@
+{
+  "fields": {"title": "title", "artist": "artists", "album": "album", "length": "duration_seconds", "song_id": "song_id"},
+  "artist_separator": " / "
+}
